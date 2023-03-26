@@ -17,7 +17,7 @@ Prints out the accuracies for each classifier and includes a comment in the scri
 ## Project
 A script that runs 2 ensemble voting classifiers on the dry bean data set, and 2 ensemble voting classifiers on the Cleveland heart dataset, one each with unscaled data and one each with scaled data. 
 
-** Objectives: **
+**Objectives:**
 Use of the input models listed below (includes the results from all of these voting classifier on each dataset):
 1.	Naïve Bayes 
 2.	LDA
