@@ -1,18 +1,19 @@
 # Pattern_Recognition
-Zero
-Use of Naïve Bayes Classifier to classify the dataset, and prints out the accuracy of the classifier.
+##Zero
+Use of Naïve Bayes Classifier to classify the dry bean dataset, and print out the accuracy of the classifier with general analysis of the dataset.
 
-One
+##One
 A script that runs a linear SVM, an SVM with a polynomial kernel, an SVM with a Gaussian kernel, and an SVM with a sigmoid kernel on the dry bean data set.  
-Print out the accuracies for each classifier and include a comment in your script on which classifier achieved the best accuracy.
+Prints out the accuracies for each classifier and includes comments in the script on which classifier achieved the best accuracy.
 
-Two
+##Two
 A script that runs two neural network classifiers and two logistic regression classifiers on the dry bean data set, 
-one each with unscaled data and one each with scaled data.  
+one of each with unscaled data and scaled data.  
 
-Three
-a script that runs a Naïve Bayes classifier, an LDA classifier, and a KNN classifier on the Dry Bean dataset, using stratified k-fold validation on at least one of the classifiers.  
-Print out the accuracies for each classifier and include a comment in your script on which classifier achieved the best accuracy.
+##Three
+A script that runs a Naïve Bayes classifier, a LDA classifier, and a KNN classifier on the Dry Bean dataset, using stratified k-fold validation on the classifiers.  
+Prints out the accuracies for each classifier and includes a comment in the script on which classifier achieved the best accuracy.
 
-Project
-a script that runs 2 ensemble voting classifiers on the dry bean data set, and 2 ensemble voting classifiers on the Cleveland heart dataset, one each with unscaled data and one each with scaled data. 
+##Project
+A script that runs 2 ensemble voting classifiers on the dry bean data set, and 2 ensemble voting classifiers on the Cleveland heart dataset, one each with unscaled data and one each with scaled data. 
+###Objective:
